@@ -40,8 +40,9 @@ The application will be accessible at localhost--> [http://127.0.0.1:8081](http:
 
 ## Deployed Version
 
-The deployed version of this application is accessible at [https://ksvreddy.pythonanywhere.com/](https://ksvreddy.pythonanywhere.com/).
-You can see this site until 3 Months only
+The deployed version of this application is accessible at [https://ksvreddy.pythonanywhere.com/](https://ksvreddy.pythonanywhere.com/). After clicking the site it will takes 1-2 Minutes of time to display the data.
+
+You can see this site until 3 Months only.
 
 
 ## Usage
